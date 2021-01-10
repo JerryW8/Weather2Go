@@ -1,1 +1,2 @@
-# weather-app
+# Weather2Go
+
